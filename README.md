@@ -1,6 +1,7 @@
 # Information for the Synthesis Workshop
 
 * Information on [getting to Shoals](https://www.shoalsmarinelaboratory.org/getting-shoals)
+  * Add Boat schedule here
 
 * Link to the [List of Participants](participant_list.csv)
 
