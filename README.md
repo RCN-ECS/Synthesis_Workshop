@@ -17,3 +17,5 @@
 * [Shoals Overnight Trip Form for adults](https://www.shoalsmarinelaboratory.org/sites/shoalsmarinelaboratory.org/files/media/pdf/VisitorForms/ada_sml2016_overnighter_forms_adult.pdf) Please fill this out and send to shoals.lab@unh.edu no later than August 1.
 
 * [Shoals Overnight Trip Form for minors](https://www.shoalsmarinelaboratory.org/sites/shoalsmarinelaboratory.org/files/media/pdf/VisitorForms/ada_sml2016_minors_overnighter_forms.pdf) If traveling with a minor(s), please fill this out and send no later than August 1 to shoals.lab@unh.edu or mail/fax to or mail/fax to: Shoals Marine Laboratory, Morse Hall Suite 113, 8 College Road, Durham, NH 03824, Fax: 603-862-3151.
+
+* Boats will depart Shoals Marine Lab for Portsmouth 9:45am on Friday, August 23rd.
