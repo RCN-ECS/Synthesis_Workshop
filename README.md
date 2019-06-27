@@ -41,7 +41,7 @@ If you are driving:
  
  # How to prepare for the Synthesis Workshop
 
- * Check out [what RCN participants think is unique about the ocean environment](1-What our members want.pdf) and a [summary of what applicants to the Synthesis Workshop think is interesting for synthesis](3-What Applicants for the RCN-RCS Synthesis workshop are interested in for synthesis.pdf)
+ * Check out [what RCN participants think is unique about the ocean environment](1-What_our_members_want.pdf) and a [summary of what applicants to the Synthesis Workshop think is interesting for synthesis](3-What_Applicants_for_the_RCN-ECS_Synthesis_workshop_are_interested_in_for_synthesis.pdf)
  
  * Read over a [summary of the coordinated readings that took place in Spring 2019](https://docs.google.com/document/d/1mm59PzvU5oK-tsfY-fuNsoNFRIrM40vipt1pGLuJfrg/edit?ts=5cd98060). If you participated, feel free to make comments!
  
