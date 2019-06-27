@@ -36,3 +36,6 @@ If you are driving:
  
  * Boats will depart Shoals Marine Lab for Portsmouth 9:45am on Friday, August 23rd.
  * There will be a bus to take people from Portsmouth to the Boston airport; we expect to arrive to Boston by 1pm at the latest.
+ 
+ # How to prepare for the Synthesis Workshop
+ 
