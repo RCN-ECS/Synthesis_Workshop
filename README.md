@@ -16,15 +16,15 @@
 
 ### Information on [getting to Shoals](https://www.shoalsmarinelaboratory.org/getting-shoals)
   
-* If you are flying, you may choose to fly to Boston Logan or Portsmouth, NH. Please fill out the Google Form so we can evaluate the need for a group shuttle from Boston Logan to Portsmouth
+_Boats will leave from Portsmouth to Shoals Marine Lab 2:45pm on Monday, August 19th._
 
-* If you are arriving on the 18th, we have scheduled a hotel for you in your arrival city (Boston or Portsmouth). If you have not yet received a hotel reservation, please contact Sophia Simon (s.simon@northeastern.edu) with the words "RCN workshop" in the subject line. If you are arriving on the 18th to Boston, we have arranged a shuttle to take you to Portsmouth on the 19th.
-
- * If you are arriving on the 19th to Boston, please reserve a spot on the [C&J railways shuttle](https://www.ridecj.com/schedules/view-schedules/?departure=951&arrival=949&departuredate=2019-08-19) - it leaves every 1-2 hours from Logan. To catch the boat to Shoals, the latest shuttle you can catch leaves from 1:10pm from Logan. If you are traveling internationally the RCN cannot reimburse you, but we can help pay directly for domestic travel. Contact Sophia Simon (s.simon@northeastern.edu) if you would like us to pay directly for your shuttle.
-
+* If you are flying:
+ * If you are arriving on the 18th, we have scheduled a hotel for you in your arrival city (Boston or Portsmouth). If you have not yet received a hotel reservation, please contact Sophia Simon (s.simon@northeastern.edu) with the words "RCN workshop" in the subject line. If you are arriving on the 18th to Boston, we have arranged a shuttle to take you to Portsmouth on the 19th.
+  * If you are arriving on the 19th to Boston, please reserve a spot on the [C&J railways shuttle](https://www.ridecj.com/schedules/view-schedules/?departure=951&arrival=949&departuredate=2019-08-19) - it leaves every 1-2 hours from Logan. To catch the boat to Shoals, the latest shuttle you can catch leaves from 1:10pm from Logan. If you are traveling internationally the RCN cannot reimburse you, but we can help pay directly for domestic travel. Contact Sophia Simon (s.simon@northeastern.edu) if you would like us to pay directly for your shuttle.
  * Arrangements will be made to store your luggage at SML’s dock starting at 11am so you can enjoy the Portsmouth area prior to departure.
 
- * Boats will leave from Portsmouth to Shoals Marine Lab 2:45pm on Monday, August 19th. 
+If you are driving:
+ * [Here is a google doc you can use to find someone who may want to carpool](https://docs.google.com/document/d/1Ak_Ef5sC9RreQUyZvKUTi9MR_KK_4tQyj1ES7FATZZA/edit)
   
 ### Forms due a week before your travel
 
