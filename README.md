@@ -5,6 +5,8 @@
 
 * [Code of Conduct](code_conduct.md) Please read our Code of Conduct prior to coming to the meeting. 
 
+* Alcohol policy: Shoals does not sell alcohol, however you can bring your own. We'll try to organize something more formal as the date approaches.
+
 
 ## Planning your trip
 
@@ -38,4 +40,10 @@ If you are driving:
  * There will be a bus to take people from Portsmouth to the Boston airport; we expect to arrive to Boston by 1pm at the latest.
  
  # How to prepare for the Synthesis Workshop
+
+ * Check out [what our participants think is unique about the ocean environment]()
+ * Read over a [summary of ]
  
+ # What to expect at the Synthesis Workshop
+  
+
