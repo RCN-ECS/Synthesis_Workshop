@@ -53,7 +53,26 @@ If you are driving:
  
 The workshop will balance plenary sessions that will be streamed live (with opportunities to ask questions) with private break-out sessions, followed by live-streaming of break-out session summaries. To facilitate self-organization of participants into groups, we will use the Open Space workshop format successfully used by NESCent Hackathons (Stoltzfus et al. 2017). These hackathons have employed a version of Open Space, which is a participant-driven way to run productive meetings, for five to 2000+ people (www.openspaceworld.org). The Open Space framework for a conference or workshop results in self-organized groups focused on a specific and important purpose or task, but beginning without any formal agenda beyond the overall purpose or theme. 
 
+_We are currently working on a specific schedule_
+
+### Life on the island
+
+The facility is a field station and the important things to know are that the facilities are not designed for accessibility, there is not a great deal of privacy, and the conditions can occasionally be uncomfortable; especially in poor weather.  August is generally an amazing time for Appledore weather, but there are always exceptions.  They have a strict no-pet policy to protect the wildlife and ecosystem of the island.  they are very conscientious about allergies and dietary restrictions.  Generally, if a person can eat in a restaurant, they can be accommodated in our dining facility.
+
+### Day 1: Forming working groups
+
 Following the Open Space and NESCent Hackathon framework, our meeting would have 2-3 facilitators whose role is to guide participants through the self-organization process. A key role of facilitators will be to stress that the event belongs to the participants and the teams they form. The morning of the first day of the workshop will consist of structured activities, including introductions and symposia on topics related to the main theme of evolution in changing seas and activities to mix up participants. After these presentations, participants will be engaged in an open discussion of ideas and challenges, with the aim of identifying a sufficient number of project ideas that are feasible and that are aligned with the scope of the RCN. Then the facilitators will invite brief “pitches” or project ideas proposed for broader adoption. In practice, pitches often came from more senior people (including organizers) with a more confident sense of what projects would have an impact. The champion for each pitch then creates an impromptu poster. Participants are free to wander around the room to discuss pitches and decide how to fit in. In this process, champions of some pitches may merge together into a team, while others may drop their pitch if it lacks interest. In the implementation of this approach in the NESCent Hackathons, the first day typically ended with a set of five to seven hackathon teams committed to a project with recorded goals (Stoltzfus et al. 2017). 
 
 An important aspect of the success of this approach is to have a diverse group of participants who are passionate about the issues to be discussed, and this was considered when evaluating applications. Note that because the agenda of an Open Space meeting is emergent, it is impossible to know exactly what is going to be addressed during the meeting, and how working groups will decide to organize themselves among the various topics that might be discussed.
 
+### Setting your working group goals during and after the workshop
+
+The next two days of the workshop will be dedicated to break-out groups and integration among working group goals. Each group will be expected to develop a set of goals and a timeline for reaching those goals. There will be RCN funds available for productive working groups who meet their goals to get together again after the workshop.
+
+# Fun things to do!
+
+* We will have the island almost to ourselves - bird banders will be catching and banding migratory birds. There will be opportunities to check it out!
+
+* Evening boat cruises.
+
+* Intertidal nature walks.
