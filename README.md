@@ -18,7 +18,7 @@
 
 ### Information on [getting to Shoals](https://www.shoalsmarinelaboratory.org/getting-shoals)
   
-_Boats will leave from Portsmouth to Shoals Marine Lab 2:45pm on Monday, August 19th._
+#### Boats will leave from Portsmouth to Shoals Marine Lab 2:45pm on Monday, August 19th. ####
 
 If you are flying:
  * If you are arriving on the 18th, we have scheduled a hotel for you in your arrival city (Boston or Portsmouth). If you have not yet received a hotel reservation, please contact Sophia Simon (s.simon@northeastern.edu) with the words "RCN workshop" in the subject line. If you are arriving on the 18th to Boston, we have arranged a shuttle to take you to Portsmouth on the 19th.
@@ -36,7 +36,7 @@ If you are driving:
 
 ### Information on leaving Shoals August 23rd
  
- * Boats will depart Shoals Marine Lab for Portsmouth 9:45am on Friday, August 23rd.
+#### Boats will depart Shoals Marine Lab for Portsmouth 9:45am on Friday, August 23rd ####
  * There will be a bus to take people from Portsmouth to the Boston airport; we expect to arrive to Boston by 1pm at the latest.
 
  # Goals of the Synthesis Workshop
