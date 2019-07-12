@@ -18,11 +18,9 @@
  
  * Read over a [summary of the coordinated readings that took place in Spring 2019](https://docs.google.com/document/d/1mm59PzvU5oK-tsfY-fuNsoNFRIrM40vipt1pGLuJfrg/edit?ts=5cd98060). If you participated, feel free to make comments!
  
- # What to expect at the Synthesis Workshop
+ # Schedule
  
-The workshop will balance plenary sessions that will be streamed live (with opportunities to ask questions) with private break-out sessions, followed by live-streaming of break-out session summaries. To facilitate self-organization of participants into groups, we will use the Open Space workshop format successfully used by NESCent Hackathons (Stoltzfus et al. 2017). These hackathons have employed a version of Open Space, which is a participant-driven way to run productive meetings, for five to 2000+ people (www.openspaceworld.org). The Open Space framework for a conference or workshop results in self-organized groups focused on a specific and important purpose or task, but beginning without any formal agenda beyond the overall purpose or theme. 
-
-_We are currently working on a specific schedule_
+The workshop will balance plenary sessions that will be streamed live (with opportunities to ask questions) with private break-out sessions, followed by live-streaming of break-out session summaries. To facilitate self-organization of participants into groups, we will use the Open Space workshop format successfully used by NESCent Hackathons (Stoltzfus et al. 2017). These hackathons have employed a version of Open Space, which is a participant-driven way to run productive meetings, for five to 2000+ people (www.openspaceworld.org). The Open Space framework for a conference or workshop results in self-organized groups focused on a specific and important purpose or task, but beginning without any formal agenda beyond the overall purpose or theme. (See below for more information)
 
 ## Monday August 19
 * 13:15 Guests arrive to Portsmouth Transportation Center 
