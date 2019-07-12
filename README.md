@@ -24,6 +24,84 @@ The workshop will balance plenary sessions that will be streamed live (with oppo
 
 _We are currently working on a specific schedule_
 
+## Monday August 19
+* 13:15 Guests arrive to Portsmouth Transportation Center 
+* 13:30 SML provided bus shuttles guests from PTC to Portsmouth dock 
+* 14:45 Boat leaves Portsmouth
+* 16:00 Boat arrives Appledore Island 
+* 16:00 - 16:15 Unloading Luggage from Boats
+* 16:30 - 16:45 Refreshments and restroom break in Kiggins Commons 
+* 16:45 - 17:15 Fire/Water Safety Talk, building orientation, alcohol policy, led by an SML Member, code of conduct (Katie will introduce Joanna Kelley, Safety Officer)  
+* 17:15 - 18:00 Settle into residential spaces 
+* 18:00 - 19:00 Dinner 
+* 19:00 - 20:00 Orientation and walking tour (2 groups, upper half and lower half of island)
+* 20:00 Social hour on Commons Deck (BYO alcoholic beverages)
+
+## Tuesday August 20
+* 07:30 Breakfast
+* 09:00 - 11:40 Presentations (Live Broadcast)
+* 9:00 Joanna Kelley “Introduction to the RCN-ECS”
+* 9:20 Katie Lotterhos and Molly Albecker 
+“What we learned from the coordinated readings”
+* 9:40 Morgan Kelly “Local adaptation in the sea”
+* 10:00 coffee break
+* 10:20 Jamie Pringle “The physical ocean environment”
+* 10:40 Phil Yund “Larval transport”
+* 11:00 Cameron Ghalambhor “Plasticity and adaptation”
+* 11:20 TBD
+* 11:40 Andy Kern “Recent advances in population genetics”
+
+* 12:30 Lunch
+* 13:30 - 14:15 Local adaptation panel discussion (Live Broadcast)
+	* Dan Bolnick, Randall Hughes, Matt Hahn 
+* 14:15 - 15:30 Circle discussion (Live Broadcast)
+An open discussion of ideas and challenges, with the aim of identifying a sufficient number of project ideas that are feasible and that are aligned with the scope of the RCN. 
+Notetakers: Katie Lotterhos and X and X.
+* 15:30 Break
+* 15:45 - 17:00 Impromptu Poster Making
+At this time we will open the floor to “pitches” or project ideas proposed for broader adoption. In practice, pitches often came from more senior people (including organizers) with a more confident sense of what projects would have an impact. The champion for each pitch then creates an impromptu poster. Participants are free to wander around the room to discuss pitches and decide how to fit in. 
+* 17:00 - 17:45 Form working groups
+At this time we will invite all participants to add their name to a poster with a post-it note (e.g., join a working group). Depending on interest, champions of some pitches may merge together into a team, while others may drop their pitch if it lacks interest. In the implementation of this approach in the NESCent Hackathons, the first day typically ended with a set of five to seven hackathon teams committed to a project with recorded goals (Stoltzfus et al. 2017).
+* 18:00 Dinner
+* 19:00 Finish forming working groups if necessary
+* 20:00 Social Hour on Commons Deck (BYO alcoholic beverages)
+
+## Wed August 21 (LT: 0930, 1736) 
+* 06:30 Snorkeling in Great Tide Pool (bring your own snorkeling gear)
+* 07:30 Breakfast
+* 8:30 - 12:00 Individual Working Groups 
+* 9:30 One hour intertidal excursion (half of the working groups today, other half tomorrow)
+* 12:30 Lunch
+* 13:30 Swim Call - Jump off the Dock
+* 13:30 - 15:30 pm Working Groups
+* 15:30 Gene Editing Information Session (Dan Bolnick) (Live Broadcast)
+* 16:30 Group Meeting, Working group reports (Live Broadcast)
+* 18:00 Dinner
+* 19:00 Evening Boat ride (other half of the working groups, other half tomorrow)
+* 20:00 Social Hour (BYO alcoholic beverages)
+
+## Thurs August 22 (LT: 1011, 2044)
+* 06:30 Snorkeling in Great Tide Pool (bring your own snorkeling gear)
+* 07:30 Breakfast
+* 8:30 - 12:00 Individual Working Groups 
+* 10:30 One hour intertidal excursion (other half of the working groups)
+* 12:30 Lunch
+* 13:30 Swim Call - Jump off the Dock
+* 13:30 - 16:00 Individual Working Groups
+* 16:00 Group discussion - Planning for 2020 (Genomics Committee, Spring Coordinated Readings)
+* 16:30 Group Meeting, Working group reports (Live Broadcast)
+* 18:00 Lobster Dinner
+* 19:00 Evening Boat ride (other half of the working groups)
+* 20:00 Social Hour (BYO alcoholic beverages)
+
+## Fri Aug 23
+* 07:30 Breakfast
+* 08:45 Luggage on porch of your housing facility
+* 09:15 Gather at the top of the floating dock 
+* 09:30 Departure from Appledore Island 
+* 10:45 Arrive back to Portsmouth (315 Market Street, Portsmouth, NH 03801)
+* 11:00 Bus departing for Boston Logan International Airport 
+* 11:00 SML van shuttling guests to vehicles at Portsmouth Transportation Center 
 
 ### Day 1: Forming working groups
 
@@ -34,11 +112,3 @@ An important aspect of the success of this approach is to have a diverse group o
 ### Setting your working group goals during and after the workshop
 
 The next two days of the workshop will be dedicated to break-out groups and integration among working group goals. Each group will be expected to develop a set of goals and a timeline for reaching those goals. There will be RCN funds available for productive working groups who meet their goals to get together again after the workshop.
-
-# Fun things to do!
-
-* We will have the island almost to ourselves - bird banders will be catching and banding migratory birds. There will be opportunities to check it out!
-
-* Evening boat cruises.
-
-* Intertidal nature walks.
