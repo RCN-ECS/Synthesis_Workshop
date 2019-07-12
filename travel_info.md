@@ -7,6 +7,14 @@
 
 **Getting reimbursed** Northeastern University is managing the RCN and **does not process per diem reimbursements.** Please save all your travel receipts (food, taxi, etc.) for reimbursement. We will cover reimbursement paperwork during the workshop.
 
+### Life on the island
+
+The facility is a field station and the important things to know are that the facilities are not designed for accessibility, there is not a great deal of privacy, and the conditions can occasionally be uncomfortable; especially in poor weather.  August is generally an amazing time for Appledore weather, but there are always exceptions.  They have a strict no-pet policy to protect the wildlife and ecosystem of the island.  They are very conscientious about allergies and dietary restrictions.  Generally, if a person can eat in a restaurant, they can be accommodated in our dining facility.
+
+There is no air conditioning. There will be wi-fi access, and we are inquiring about cell reception.
+
+You many want to bring a bathing suit or snorkeling gear to cool off.
+
 ### Information on [getting to Shoals](https://www.shoalsmarinelaboratory.org/getting-shoals)
   
 #### Boats will leave from Portsmouth to Shoals Marine Lab 2:45pm on Monday, August 19th. ####
