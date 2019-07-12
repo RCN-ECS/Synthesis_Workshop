@@ -53,12 +53,12 @@ _We are currently working on a specific schedule_
 * 13:30 - 14:15 Local adaptation panel discussion (Live Broadcast)
 	* Dan Bolnick, Randall Hughes, Matt Hahn 
 * 14:15 - 15:30 Circle discussion (Live Broadcast)
-An open discussion of ideas and challenges, with the aim of identifying a sufficient number of project ideas that are feasible and that are aligned with the scope of the RCN. 
+	* An open discussion of ideas and challenges, with the aim of identifying a sufficient number of project ideas that are feasible and that are aligned with the scope of the RCN. 
 * 15:30 Break
 * 15:45 - 17:00 Impromptu Poster Making
-At this time we will open the floor to “pitches” or project ideas proposed for broader adoption. In practice, pitches often came from more senior people (including organizers) with a more confident sense of what projects would have an impact. The champion for each pitch then creates an impromptu poster. Participants are free to wander around the room to discuss pitches and decide how to fit in. 
+	* At this time we will open the floor to “pitches” or project ideas proposed for broader adoption. In practice, pitches often came from more senior people (including organizers) with a more confident sense of what projects would have an impact. The champion for each pitch then creates an impromptu poster. Participants are free to wander around the room to discuss pitches and decide how to fit in. 
 * 17:00 - 17:45 Form working groups
-At this time we will invite all participants to add their name to a poster with a post-it note (e.g., join a working group). Depending on interest, champions of some pitches may merge together into a team, while others may drop their pitch if it lacks interest. In the implementation of this approach in the NESCent Hackathons, the first day typically ended with a set of five to seven hackathon teams committed to a project with recorded goals (Stoltzfus et al. 2017).
+	* At this time we will invite all participants to add their name to a poster with a post-it note (e.g., join a working group). Depending on interest, champions of some pitches may merge together into a team, while others may drop their pitch if it lacks interest. In the implementation of this approach in the NESCent Hackathons, the first day typically ended with a set of five to seven hackathon teams committed to a project with recorded goals (Stoltzfus et al. 2017).
 * 18:00 Dinner
 * 19:00 Finish forming working groups if necessary
 * 20:00 Social Hour on Commons Deck (BYO alcoholic beverages)
