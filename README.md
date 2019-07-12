@@ -39,24 +39,21 @@ _We are currently working on a specific schedule_
 
 ## Tuesday August 20
 * 07:30 Breakfast
-* 09:00 - 11:40 Presentations (Live Broadcast)
-* 9:00 Joanna Kelley “Introduction to the RCN-ECS”
-* 9:20 Katie Lotterhos and Molly Albecker 
-“What we learned from the coordinated readings”
-* 9:40 Morgan Kelly “Local adaptation in the sea”
-* 10:00 coffee break
-* 10:20 Jamie Pringle “The physical ocean environment”
-* 10:40 Phil Yund “Larval transport”
-* 11:00 Cameron Ghalambhor “Plasticity and adaptation”
-* 11:20 TBD
-* 11:40 Andy Kern “Recent advances in population genetics”
-
+* 09:00 - 12:00 Presentations (Live Broadcast)
+	* 9:00 Joanna Kelley “Introduction to the RCN-ECS”
+	* 9:20 Katie Lotterhos and Molly Albecker “What we learned from the coordinated readings”
+	* 9:40 Morgan Kelly “Local adaptation in the sea”
+	* 10:00 coffee break
+	* 10:20 Jamie Pringle “The physical ocean environment”
+	* 10:40 Phil Yund “Larval transport”
+	* 11:00 Cameron Ghalambhor “Plasticity and adaptation”
+	* 11:20 TBD
+	* 11:40 Andy Kern “Recent advances in population genetics”
 * 12:30 Lunch
 * 13:30 - 14:15 Local adaptation panel discussion (Live Broadcast)
 	* Dan Bolnick, Randall Hughes, Matt Hahn 
 * 14:15 - 15:30 Circle discussion (Live Broadcast)
 An open discussion of ideas and challenges, with the aim of identifying a sufficient number of project ideas that are feasible and that are aligned with the scope of the RCN. 
-Notetakers: Katie Lotterhos and X and X.
 * 15:30 Break
 * 15:45 - 17:00 Impromptu Poster Making
 At this time we will open the floor to “pitches” or project ideas proposed for broader adoption. In practice, pitches often came from more senior people (including organizers) with a more confident sense of what projects would have an impact. The champion for each pitch then creates an impromptu poster. Participants are free to wander around the room to discuss pitches and decide how to fit in. 
@@ -103,7 +100,7 @@ At this time we will invite all participants to add their name to a poster with 
 * 11:00 Bus departing for Boston Logan International Airport 
 * 11:00 SML van shuttling guests to vehicles at Portsmouth Transportation Center 
 
-### Day 1: Forming working groups
+### Information on the Open Space Format
 
 Following the Open Space and NESCent Hackathon framework, our meeting would have 2-3 facilitators whose role is to guide participants through the self-organization process. A key role of facilitators will be to stress that the event belongs to the participants and the teams they form. The morning of the first day of the workshop will consist of structured activities, including introductions and symposia on topics related to the main theme of evolution in changing seas and activities to mix up participants. After these presentations, participants will be engaged in an open discussion of ideas and challenges, with the aim of identifying a sufficient number of project ideas that are feasible and that are aligned with the scope of the RCN. Then the facilitators will invite brief “pitches” or project ideas proposed for broader adoption. In practice, pitches often came from more senior people (including organizers) with a more confident sense of what projects would have an impact. The champion for each pitch then creates an impromptu poster. Participants are free to wander around the room to discuss pitches and decide how to fit in. In this process, champions of some pitches may merge together into a team, while others may drop their pitch if it lacks interest. In the implementation of this approach in the NESCent Hackathons, the first day typically ended with a set of five to seven hackathon teams committed to a project with recorded goals (Stoltzfus et al. 2017). 
 
