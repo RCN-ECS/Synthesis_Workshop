@@ -19,13 +19,28 @@ You many want to bring a bathing suit or snorkeling gear to cool off.
   
 #### Boats will leave from Portsmouth to Shoals Marine Lab 2:45pm on Monday, August 19th. ####
 
-If you are flying:
+*If you are flying:*
  * If you are arriving on the 18th, we have scheduled a hotel for you in your arrival city (Boston or Portsmouth). If you have not yet received a hotel reservation, please contact Sophia Simon (s.simon@northeastern.edu) with the words "RCN workshop" in the subject line. If you are arriving on the 18th to Boston, we have arranged a shuttle to take you to Portsmouth on the 19th.
-  * If you are arriving on the 19th to Boston, please reserve a spot on the [C&J railways shuttle](https://www.ridecj.com/schedules/view-schedules/?departure=951&arrival=949&departuredate=2019-08-19) - it leaves every 1-2 hours from Logan. To catch the boat to Shoals, the latest shuttle you can catch leaves from 1:10pm from Logan. If you are traveling internationally the RCN cannot reimburse you, but we can help pay directly for domestic travel. Contact Sophia Simon (s.simon@northeastern.edu) if you would like us to pay directly for your shuttle.
+  * If you are arriving on the 19th to Boston, please reserve a spot on the [C&J railways shuttle](https://www.ridecj.com/schedules/view-schedules/?departure=951&arrival=949&departuredate=2019-08-19) - it leaves every 1-2 hours from Logan. If you are traveling internationally the RCN cannot reimburse you, but we can help pay directly for domestic travel. Contact Sophia Simon (s.simon@northeastern.edu) if you would like us to pay directly for your shuttle. C&J will drop you off at the Portsmouth Transportation Center (see below).
  * Arrangements will be made to store your luggage at SML’s dock starting at 11am so you can enjoy the Portsmouth area prior to departure.
 
-If you are driving:
+*If you are driving:*
  * [Here is a google doc you can use to find someone who may want to carpool](https://docs.google.com/document/d/1Ak_Ef5sC9RreQUyZvKUTi9MR_KK_4tQyj1ES7FATZZA/edit)
+ * Park for free overnight at Portmouth Transportation Center and catch the shuttle to the dock (see below)
+ 
+*1:15 Shuttle from Portsmouth Transportation Center to the dock*
+We will offer one shuttle from the PTC (Portsmouth Transportation Center - if you are driving park here for free, if you are taking the bus from Boston this is where you will be dropped off), arrive with luggage at 1:15pm to PTC, shuttle leave by 1:30pm.
+If guests arrive very early, they can find own means to Portsmouth, enjoy the town, and plan to arrive to dock for check in at 2:15pm. 
+
+*Dock shed for luggage storage*
+The code to access this will be sent in an email.
+
+*2:15 Check in at the dock*
+Portsmouth dock - 315 Market Street, Portsmouth, NH 03801
+
+*2:45 Prompt departure to Shoals*
+Boats will depart promptly at 2:45, because they are timed with a bridge lift. If you miss this boat, contact Collin Love (collinconnor21@gmail.com) for options to come up Tuesday morning at 9:30am from the Newcastle dock (New Castle dock - 29 Wentworth Road, New Castle, NH 03854).
+
   
 ### Forms due a week before your travel
 
@@ -36,4 +51,6 @@ If you are driving:
 ### Information on leaving Shoals August 23rd
  
 #### Boats will depart Shoals Marine Lab for Portsmouth 9:45am on Friday, August 23rd ####
- * There will be a bus to take people from Portsmouth to the Boston airport; we expect to arrive to Boston by 1pm at the latest.
+* Plan for 11am arrival in Portsmouth
+* There will be a bus to take people directly from Portsmouth to the Boston airport; we expect to arrive to Boston by 1pm at the latest.
+* There will also be a shuttle to take people to the PTC. Expect to arrive at PTC by 12pm.
