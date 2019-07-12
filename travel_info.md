@@ -29,16 +29,20 @@ You many want to bring a bathing suit or snorkeling gear to cool off.
  * Park for free overnight at Portmouth Transportation Center and catch the shuttle to the dock (see below)
  
 **1:15 Shuttle from Portsmouth Transportation Center to the dock**
+
 We will offer one shuttle from the PTC (Portsmouth Transportation Center - if you are driving park here for free, if you are taking the bus from Boston this is where you will be dropped off), arrive with luggage at 1:15pm to PTC, shuttle leave by 1:30pm.
 If guests arrive very early, they can find own means to Portsmouth, enjoy the town, and plan to arrive to dock for check in at 2:15pm. 
 
 **Dock shed for luggage storage**
+
 The code to access this will be sent in an email.
 
 **2:15 Check in at the dock**
+
 Portsmouth dock - 315 Market Street, Portsmouth, NH 03801
 
 **2:45 Prompt departure to Shoals**
+
 Boats will depart promptly at 2:45, because they are timed with a bridge lift. If you miss this boat, contact Collin Love (collinconnor21@gmail.com) for options to come up Tuesday morning at 9:30am from the Newcastle dock (New Castle dock - 29 Wentworth Road, New Castle, NH 03854).
 
   
