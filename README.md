@@ -63,7 +63,7 @@ The workshop will balance plenary sessions that will be streamed live (with oppo
 * 19:00 Finish forming working groups if necessary
 * 20:00 Social Hour on Commons Deck (BYO alcoholic beverages)
 
-## Wed August 21 (LT: 0930, 1736) 
+## Wed August 21 (Low Tide: 0930, 1736) 
 * 06:30 Snorkeling in Great Tide Pool (bring your own snorkeling gear)
 * 07:30 Breakfast
 * 8:30 - 12:00 Individual Working Groups 
@@ -77,7 +77,7 @@ The workshop will balance plenary sessions that will be streamed live (with oppo
 * 19:00 Evening Boat ride (other half of the working groups, other half tomorrow)
 * 20:00 Social Hour (BYO alcoholic beverages)
 
-## Thurs August 22 (LT: 1011, 2044)
+## Thurs August 22 (Low Tide: 1011, 2044)
 * 06:30 Snorkeling in Great Tide Pool (bring your own snorkeling gear)
 * 07:30 Breakfast
 * 8:30 - 12:00 Individual Working Groups 
