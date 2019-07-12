@@ -3,10 +3,10 @@
 
 * Link to the [List of Participants](participant_list.csv)
 
-* [Code of Conduct](code_conduct.md) Please read our Code of Conduct prior to coming to the meeting. 
-
-* Alcohol policy: Shoals does not sell alcohol, however you can bring your own. We'll try to organize something more formal as the date approaches.
-
+* For participants: 
+ * [Code of Conduct](code_conduct.md) Please read our Code of Conduct prior to coming to the meeting. 
+ * [Travel Information](travel_info.md) and information on reimbursements (save your receipts, no per-diems)
+ * Alcohol policy: Shoals does not sell alcohol, however you can bring your own. We'll try to organize something more formal as the date approaches.
 
  # Goals of the Synthesis Workshop
  
@@ -24,9 +24,6 @@ The workshop will balance plenary sessions that will be streamed live (with oppo
 
 _We are currently working on a specific schedule_
 
-### Life on the island
-
-The facility is a field station and the important things to know are that the facilities are not designed for accessibility, there is not a great deal of privacy, and the conditions can occasionally be uncomfortable; especially in poor weather.  August is generally an amazing time for Appledore weather, but there are always exceptions.  They have a strict no-pet policy to protect the wildlife and ecosystem of the island.  they are very conscientious about allergies and dietary restrictions.  Generally, if a person can eat in a restaurant, they can be accommodated in our dining facility.
 
 ### Day 1: Forming working groups
 
