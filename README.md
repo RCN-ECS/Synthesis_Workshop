@@ -4,9 +4,11 @@
 * Link to the [List of Participants](participant_list.csv)
 
 * For participants: 
- * [Code of Conduct](code_conduct.md) Please read our Code of Conduct prior to coming to the meeting. 
- * [Travel Information](travel_info.md) and information on reimbursements (save your receipts, no per-diems)
- * Alcohol policy: Shoals does not sell alcohol, however you can bring your own. We'll try to organize something more formal as the date approaches.
+	* [Code of Conduct](code_conduct.md) Please read our Code of Conduct prior to coming to the meeting. 
+	* [Travel Information](travel_info.md) and information on reimbursements (save your receipts, no per-diems)
+	* Alcohol policy: Shoals does not sell alcohol, however you can bring your own. We'll try to organize something more formal as the date approaches.
+	
+* For remote participants: We will update this schedule with a link to the online meeting room and information on how to contribute as the date approaches. See the schedule below for which parts of the workshop will be live broadcast.	
 
  # Goals of the Synthesis Workshop
  
