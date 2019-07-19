@@ -26,7 +26,7 @@ The workshop will balance plenary sessions that will be streamed live (with oppo
 
 ## Monday August 19
 * 13:15 Guests arrive to Portsmouth Transportation Center 
-* 13:30 SML provided bus shuttles guests from PTC to Portsmouth dock 
+* 13:45 SML provided bus shuttles guests from PTC to Portsmouth dock 
 * 14:45 Boat leaves Portsmouth
 * 16:00 Boat arrives Appledore Island 
 * 16:00 - 16:15 Unloading Luggage from Boats
