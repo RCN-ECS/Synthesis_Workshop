@@ -43,8 +43,8 @@ The workshop will balance plenary sessions that will be streamed live (with oppo
 	* 9:00 Joanna Kelley “Introduction to the RCN-ECS”
 	* 9:20 Katie Lotterhos and Molly Albecker “What we learned from the coordinated readings”
 	* 9:40 Morgan Kelly “Local adaptation in the sea”
-	* 10:00 coffee break
-	* 10:20 Jamie Pringle "The simplest cartoon of ocean mediated dispersal (that is not too simple)..."
+	* 10:00 Jamie Pringle "The simplest cartoon of ocean mediated dispersal (that is not too simple)..."
+	* 10:20 coffee break
 	* 10:40 Phil Yund “Larval transport”
 	* 11:00 Cameron Ghalambhor “Plasticity and adaptation”
 	* 11:20 Rachael Bay "Adaptive capacity and range-edge dynamics" (remote presentation)
