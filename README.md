@@ -47,7 +47,7 @@ The workshop will balance plenary sessions that will be streamed live (with oppo
 	* 10:20 Jamie Pringle “The physical ocean environment”
 	* 10:40 Phil Yund “Larval transport”
 	* 11:00 Cameron Ghalambhor “Plasticity and adaptation”
-	* 11:20 TBD
+	* 11:20 Rachael Bay "Adaptive capacity and range-edge dynamics" (remote presentation)
 	* 11:40 Andy Kern “Recent advances in population genetics”
 * 12:30 Lunch
 * 13:30 - 14:15 Local adaptation panel discussion (Live Broadcast)
