@@ -50,7 +50,7 @@ The workshop will balance plenary sessions that will be streamed live (with oppo
 	* 11:20 Rachael Bay "Adaptive capacity and range-edge dynamics" (remote presentation)
 	* 11:40 Andy Kern “Recent advances in population genetics”
 * 12:30 Lunch
-* 13:30 - 14:15 Local adaptation panel discussion (Live Broadcast)
+* 13:30 - 14:15 Local (mal)adaptation panel discussion (Live Broadcast)
 	* Dan Bolnick, Randall Hughes, Matt Hahn 
 * 14:15 - 15:30 Circle discussion (Live Broadcast)
 	* An open discussion of ideas and challenges, with the aim of identifying a sufficient number of project ideas that are feasible and that are aligned with the scope of the RCN. 
