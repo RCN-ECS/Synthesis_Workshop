@@ -15,6 +15,8 @@ There is no air conditioning. There will be wi-fi access, and there IS cell rece
 
 You many want to bring a bathing suit or snorkeling gear to cool off.
 
+Bring sheets (fitted sheet, top sheet, and pillow case). Some guests find it easier to bring a sleeping bag! The mattresses are long twins. Shoals will provide blankets and pillows!
+
 See also the list "what to bring" in the [Shoals Overnight Trip Form for adults](https://www.shoalsmarinelaboratory.org/sites/shoalsmarinelaboratory.org/files/media/pdf/VisitorForms/ada_sml2016_overnighter_forms_adult.pdf).
 
 ### Information on [getting to Shoals](https://www.shoalsmarinelaboratory.org/getting-shoals)
