@@ -11,9 +11,11 @@ Northeastern University is managing the RCN and **does not process per diem reim
 
 The facility is a field station and the important things to know are that the facilities are not designed for accessibility, there is not a great deal of privacy, and the conditions can occasionally be uncomfortable; especially in poor weather.  August is generally an amazing time for Appledore weather, but there are always exceptions.  They have a strict no-pet policy to protect the wildlife and ecosystem of the island.  They are very conscientious about allergies and dietary restrictions.  Generally, if a person can eat in a restaurant, they can be accommodated in our dining facility.
 
-There is no air conditioning. There will be wi-fi access, and we are inquiring about cell reception.
+There is no air conditioning. There will be wi-fi access, and there IS cell reception.
 
 You many want to bring a bathing suit or snorkeling gear to cool off.
+
+See also the list "what to bring" in the [Shoals Overnight Trip Form for adults](https://www.shoalsmarinelaboratory.org/sites/shoalsmarinelaboratory.org/files/media/pdf/VisitorForms/ada_sml2016_overnighter_forms_adult.pdf).
 
 ### Information on [getting to Shoals](https://www.shoalsmarinelaboratory.org/getting-shoals)
   
