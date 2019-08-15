@@ -38,6 +38,9 @@ The workshop will balance plenary sessions that will be streamed live (with oppo
 * 20:00 Social hour on Commons Deck (BYO alcoholic beverages)
 
 ## Tuesday August 20
+Join details for live broadcasts:
+Meeting URL https://bluejeans.com/527473513?src=join_info, Meeting ID 527 473 513, Want to dial in from a phone? Dial one of the following numbers: +1.408.740.7256 (US (San Jose)) +1.408.317.9253 (US (Primary, San Jose)) (see all numbers - https://www.bluejeans.com/numbers) Enter the meeting ID and passcode followed by #, Connecting from a room system? Dial: bjn.vc or 199.48.152.152 and enter your meeting ID & passcode
+
 * 07:30 Breakfast
 * 09:00 - 12:00 Presentations (Live Broadcast)
 	* 9:00 Joanna Kelley “Introduction to the RCN-ECS”
@@ -72,6 +75,9 @@ The workshop will balance plenary sessions that will be streamed live (with oppo
 * 13:30 Swim Call - Jump off the Dock
 * 13:30 - 15:30 pm Working Groups
 * 15:30 Gene Editing Information Session (Dan Bolnick) (Live Broadcast)
+	* Join details for live broadcast: Meeting URL https://bluejeans.com/806433083?src=join_info, Meeting ID
+806 433 083, Want to dial in from a phone? Dial one of the following numbers: +1.408.740.7256 (US (San Jose))
++1.408.317.9253 (US (Primary, San Jose)) (see all numbers - https://www.bluejeans.com/numbers), Enter the meeting ID and passcode followed by #, Connecting from a room system? Dial: bjn.vc or 199.48.152.152 and enter your meeting ID & passcode
 * 16:30 Group Meeting, Working group reports (Live Broadcast)
 * 18:00 Dinner
 * 19:00 Evening Boat ride (other half of the working groups, other half tomorrow)
@@ -87,6 +93,8 @@ The workshop will balance plenary sessions that will be streamed live (with oppo
 * 13:30 - 16:00 Individual Working Groups
 * 16:00 Group discussion - Planning for 2020 (Genomics Committee, Spring Coordinated Readings)
 * 16:30 Group Meeting, Working group reports (Live Broadcast)
+	* Meeting URL https://bluejeans.com/342237753?src=join_info Meeting ID 342 237 753 Want to dial in from a phone? Dial one of the following numbers: +1.408.740.7256 (US (San Jose)) +1.408.317.9253 (US (Primary, San Jose)) (see all numbers - https://www.bluejeans.com/numbers) Enter the meeting ID and passcode followed by #, Connecting from a room system?
+Dial: bjn.vc or 199.48.152.152 and enter your meeting ID & passcode
 * 18:00 Lobster Dinner
 * 19:00 Evening Boat ride (other half of the working groups)
 * 20:00 Social Hour (BYO alcoholic beverages)
