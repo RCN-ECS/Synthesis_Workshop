@@ -42,7 +42,7 @@ Join details for live broadcasts:
 Meeting URL https://bluejeans.com/527473513?src=join_info, Meeting ID 527 473 513, Want to dial in from a phone? Dial one of the following numbers: +1.408.740.7256 (US (San Jose)) +1.408.317.9253 (US (Primary, San Jose)) (see all numbers - https://www.bluejeans.com/numbers) Enter the meeting ID and passcode followed by #, Connecting from a room system? Dial: bjn.vc or 199.48.152.152 and enter your meeting ID & passcode
 
 * 07:30 Breakfast
-* 09:00 - 12:00 Presentations (Live Broadcast)
+* 09:00 - 12:00 Presentations (Live Broadcast, see join info above - recordings of talks will be posted here)
 	* 9:00 Joanna Kelley “Introduction to the RCN-ECS”
 	* 9:20 Katie Lotterhos and Molly Albecker “What we learned from the coordinated readings”
 	* 9:40 Morgan Kelly “Local adaptation in the sea”
@@ -53,9 +53,9 @@ Meeting URL https://bluejeans.com/527473513?src=join_info, Meeting ID 527 473 51
 	* 11:20 Rachael Bay "Adaptive capacity and range-edge dynamics" (remote presentation)
 	* 11:40 Andy Kern “Recent advances in population genetics”
 * 12:30 Lunch
-* 13:30 - 14:15 Local (mal)adaptation panel discussion (Live Broadcast)
+* 13:30 - 14:15 Local (mal)adaptation panel discussion (Live Broadcast, see join info above)
 	* Dan Bolnick, Randall Hughes, Matt Hahn 
-* 14:15 - 15:30 Circle discussion (Live Broadcast)
+* 14:15 - 15:30 Circle discussion (Live Broadcast, see join info above)
 	* An open discussion of ideas and challenges, with the aim of identifying a sufficient number of project ideas that are feasible and that are aligned with the scope of the RCN. 
 * 15:30 Break
 * 15:45 - 17:00 Impromptu Poster Making
