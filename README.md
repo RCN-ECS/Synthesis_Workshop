@@ -24,6 +24,11 @@
  
 The workshop will balance plenary sessions that will be streamed live (with opportunities to ask questions) with private break-out sessions, followed by live-streaming of break-out session summaries. To facilitate self-organization of participants into groups, we will use the Open Space workshop format successfully used by NESCent Hackathons (Stoltzfus et al. 2017). These hackathons have employed a version of Open Space, which is a participant-driven way to run productive meetings, for five to 2000+ people (www.openspaceworld.org). The Open Space framework for a conference or workshop results in self-organized groups focused on a specific and important purpose or task, but beginning without any formal agenda beyond the overall purpose or theme. (See below for more information)
 
+# Join the conversation on Slack or Twitter
+We have set up Slack channel at [evolvingseas.slack.com](evolvingseas.slack.com). To join the channel please [visit this site](https://join.slack.com/t/evolvingseas/shared_invite/enQtNTI4MjcwMjg5NTM5LWFiMGM0OTczMzllODg3NGQxYzBlNTA4NTE2OWI5ZWEwNjU3MTQ2ZTk3OWYxMjA5NzQxMmQwNTVmZDE1ZGE0NDc).
+
+Our Twitter handle is @evolvingseas and the hashtag for this workshop is #RCNECS2019
+
 ## Monday August 19
 * 13:15 Guests arrive to Portsmouth Transportation Center 
 * 13:45 SML provided bus shuttles guests from PTC to Portsmouth dock 
