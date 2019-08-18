@@ -47,7 +47,7 @@ Portsmouth dock - 315 Market Street, Portsmouth, NH 03801
 
 **2:45 Prompt departure to Shoals**
 
-Boats will depart promptly at 2:45, because they are timed with a bridge lift. If you miss this boat, contact Collin Love (collinconnor21@gmail.com) for options to come up Tuesday morning at 9:30am from the Newcastle dock (New Castle dock - 29 Wentworth Road, New Castle, NH 03854).
+Boats will depart promptly at 2:45, because they are timed with a bridge lift. If you miss this boat, contact Collin Love (Collin.Love@unh.edu or (616)848-9606) for options to come up Tuesday morning at 9:30am from the Newcastle dock (New Castle dock - 29 Wentworth Road, New Castle, NH 03854).
 
   
 ### Forms due a week before your travel
