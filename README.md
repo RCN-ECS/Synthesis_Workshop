@@ -62,6 +62,7 @@ Meeting URL https://bluejeans.com/527473513?src=join_info, Meeting ID 527 473 51
 	* Dan Bolnick, Randall Hughes, Matt Hahn 
 * 14:15 - 15:30 Circle discussion (Live Broadcast, see join info above)
 	* An open discussion of ideas and challenges, with the aim of identifying a sufficient number of project ideas that are feasible and that are aligned with the scope of the RCN. 
+	* Notes https://docs.google.com/document/d/1XZ5Jp1v-DOcYBcwjySW4Blxj004vIarNDKTJxGu4dIc/edit
 * 15:30 Break
 * 15:45 - 17:00 Impromptu Poster Making
 	* At this time we will open the floor to “pitches” or project ideas proposed for broader adoption. In practice, pitches often came from more senior people (including organizers) with a more confident sense of what projects would have an impact. The champion for each pitch then creates an impromptu poster. Participants are free to wander around the room to discuss pitches and decide how to fit in. 
