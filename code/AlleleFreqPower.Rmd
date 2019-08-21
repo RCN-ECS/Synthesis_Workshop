@@ -1,0 +1,158 @@
+---
+title: "AlleFreqPower"
+author: "Katie Lotterhos"
+date: "4/28/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## FST function
+
+```{r cars}
+WC_FST_FiniteSample_Haploids_2AllelesB_MCW<-function(AllCounts){
+  #Input a matrix of the counts of each allele (columns) in each population (rows)
+  #returns vector instead of list of Fst values, according to Weir
+  
+  n_pops<-dim(AllCounts)[1]
+  r<-n_pops
+  counts1 <- AllCounts[,1]
+  sample_sizes <- rowSums(AllCounts)
+  n_ave <- mean(as.numeric(sample_sizes))
+  n_c = (n_pops*n_ave - sum(sample_sizes^2)/(n_pops*n_ave))/(n_pops-1)  
+  p_freqs = counts1/sample_sizes
+  p_ave = sum(sample_sizes*p_freqs)/(n_ave*n_pops)
+  #note: this differs slightly from mean(p_freqs) in R
+  He <- 2*p_ave*(1-p_ave)
+  
+  s2 = sum(sample_sizes*(p_freqs - p_ave)^2)/((n_pops-1)*n_ave)
+  #note: this differs slightly from var(p_freqs) in R
+  
+  T1 <- s2 - 1/(n_ave-1)*(p_ave*(1-p_ave) -(s2*(r-1)/r))
+  T2 <- (n_c - 1)*(p_ave*(1-p_ave))/(n_ave-1) + (1 + (r-1)*(n_ave-n_c)/(n_ave-1))*s2/r
+  
+  FST <- T1/T2 
+  
+  return(c(He,p_ave, FST, T1, T2))
+}
+```
+
+## Allele frequency functions
+
+```{r pressure, echo=FALSE}
+
+allelefreqchange.ind <- function(p0,p1, numind){
+  p0.samp1 <- rbinom(1, numind, p0)/numind  
+  p1.samp1 <- rbinom(1, numind, p1)/numind
+  
+  dp.true<- p0-p1
+  dp.1<- p0.samp1-p1.samp1
+  
+  p.bar<- mean(p0,p1)
+  p.bar.samp1<- mean(p0.samp1,p1.samp1)
+  
+  FST.0<-WC_FST_FiniteSample_Haploids_2AllelesB_MCW(
+    matrix(c(p0*numind, p1*numind, (1-p0)*numind, (1-p1)*numind), ncol=2))
+  
+  FST.2<-WC_FST_FiniteSample_Haploids_2AllelesB_MCW(
+    matrix(c(p0.samp1*numind, p1.samp1*numind, (1-p0.samp1)*numind, (1-p1.samp1)*numind), ncol=2))
+    dp.true<- p0-p1
+  dp.1<- p0.samp1-p1.samp1
+  return(list(p0=p0,p1=p1,p0.samp1=p0.samp1,p1.samp1=p1.samp1, dp.true=dp.true, dp.1=dp.1, FST.0=FST.0[3], FST.2=FST.2[3], He.2=FST.2[1], T1=FST.2[4], T2= FST.2[5]))
+}
+
+allelefreqchange.pooled <- function(p0,p1, numind, numreads){
+  p0.samp1 <- rbinom(1, numind, p0)/numind
+  p0.samp2 <- rbinom(1, numreads, p0.samp1)/numreads
+  
+  p1.samp1 <- rbinom(1, numind, p1)/ numind
+  p1.samp2 <- rbinom(1, numreads, p1.samp1)/numreads
+  
+  dp.true<- p1-p0
+  dp.1<- p1.samp1-p0.samp1
+  dp.2<- p1.samp2-p0.samp2 # this is observed allele frequency
+  
+  p.bar<- mean(p0,p1)
+    p.bar.samp2<- mean(p0.samp2,p1.samp2)
+  
+  FST.0<-WC_FST_FiniteSample_Haploids_2AllelesB_MCW(
+    matrix(c(p0, p1, (1-p0)*numreads, (1-p1)*numreads), ncol=2))
+  
+  FST.2<-WC_FST_FiniteSample_Haploids_2AllelesB_MCW(
+    matrix(c(p0.samp2*numreads, p1.samp2*numreads, (1-p0.samp2)*numreads, (1-p1.samp2)*numreads), ncol=2))
+  
+  if(p0==p1){return(NA)}else{
+  
+  return(list(p0=p0,p1=p1, p0.samp2=p0.samp2, p1.samp2=p1.samp2, dp.true=dp.true, dp.1=dp.1, dp.2=dp.2, FST.0=FST.0[3], FST.2=FST.2[3], He.2=FST.2[1], T1=FST.2[4], T2= FST.2[5]))
+  }
+}
+```
+
+Figure out power as function of intial allele frequency
+```{r}
+
+dp <- seq(0.05, 0.4, 0.01)
+power<- c()
+numreads=200
+numind <- 10000
+
+p0 <- rbeta(10000, 0.5,0.5)
+#hist(p0, breaks = 100)
+p0 <- p0[p0>0.1 & p0<0.9]
+
+dat <- data.frame()
+length(p0)
+
+k <- 0
+for (i in 1:length(dp)){
+    print(i)
+  for (p_0 in seq(0.1, 0.5, 0.01)){
+    k <- k+1
+    p0 <- rep(p_0, 1000)
+    delta_p <- dp[i]
+    p1 <- p0 + delta_p
+  
+    x <- data.frame(t(mapply(allelefreqchange.pooled, p0,p1,numind=numind ,numreads=numreads)))
+    x <- sapply( x, as.numeric )
+    x <- data.frame(x)
+#head(x)
+    null <- data.frame(t(mapply(allelefreqchange.pooled, p0+0.00001,p0,numind=numind ,numreads=numreads)))
+    null <- sapply( null, as.numeric )
+    null <- data.frame(null)
+#head(null)
+
+    cutoff <- quantile(null$dp.2,0.95, type=1)
+    power <- sum(x$dp.2 > cutoff)/length(x$dp.2)
+    dat0 <- data.frame(p_0, delta_p, power)
+    dat <- rbind(dat, dat0)
+  }
+}
+
+head(dat)
+```
+
+```{r}
+
+library(ggplot2)
+
+e <- ggplot(dat, aes(delta_p, power))
+e + geom_point()#, x, y, alpha, color, fill, shape, size, stroke
+
+e + geom_point(aes(color=p_0))
+
+e + geom_point(aes(color=p_0)) + theme_bw()
+
+e + geom_point(aes(color=p_0)) + theme_classic() 
+
+e + geom_point(aes(color=p_0)) + theme_classic() + labs(x="Change in allele frequency", y="Power")
+
+e + geom_point(aes(color=p_0)) + theme_classic() + labs(x="Change in allele frequency", y="Power") + geom_hline(yintercept=0.8, color="grey")
+
+e + geom_point(aes(color=p_0)) + theme_classic() + labs(x="Change in allele frequency", y="Power", color="Intial\nallele\frequency") + geom_hline(yintercept=0.8, color="grey")
+
+e + geom_point(aes(color=p_0)) + theme_classic() + labs(x="Change in allele frequency", y="Power", color="Intial\nallele\nfrequency") + geom_hline(yintercept=0.8, color="grey")
+
+e + geom_point(aes(color=p_0)) + theme_classic() + labs(x="Change in allele frequency", y="Power", color="Intial MAF") + geom_hline(yintercept=0.8, color="grey") #+ geom_vline(xintercept=0.1, color="grey")
+```
