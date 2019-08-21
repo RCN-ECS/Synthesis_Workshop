@@ -43,11 +43,9 @@ Our Twitter handle is @evolvingseas and the hashtag for this workshop is #RCNECS
 * 20:00 Social hour on Commons Deck (BYO alcoholic beverages)
 
 ## Tuesday August 20
-Join details for live broadcasts:
-Meeting URL https://bluejeans.com/527473513?src=join_info, Meeting ID 527 473 513, Want to dial in from a phone? Dial one of the following numbers: +1.408.740.7256 (US (San Jose)) +1.408.317.9253 (US (Primary, San Jose)) (see all numbers - https://www.bluejeans.com/numbers) Enter the meeting ID and passcode followed by #, Connecting from a room system? Dial: bjn.vc or 199.48.152.152 and enter your meeting ID & passcode
 
 * 07:30 Breakfast
-* 09:00 - 12:00 Presentations (Live Broadcast, see join info above - recordings of talks will be posted here)
+* 09:00 - 12:00 Presentations [View recording](https://bluejeans.com/s/TTsO7/)
 	* 9:00 Joanna Kelley “Introduction to the RCN-ECS”
 	* 9:20 Katie Lotterhos and Molly Albecker “What we learned from the coordinated readings”
 	* 9:40 Morgan Kelly “Local adaptation in the sea”
@@ -60,9 +58,9 @@ Meeting URL https://bluejeans.com/527473513?src=join_info, Meeting ID 527 473 51
 * 12:30 Lunch
 * 13:30 - 14:15 Local (mal)adaptation panel discussion (Live Broadcast, see join info above)
 	* Dan Bolnick, Randall Hughes, Matt Hahn 
-* 14:15 - 15:30 Circle discussion (Live Broadcast, see join info above)
+* 14:15 - 15:30 Circle discussion [View recording](https://bluejeans.com/s/TTsO7/)
 	* An open discussion of ideas and challenges, with the aim of identifying a sufficient number of project ideas that are feasible and that are aligned with the scope of the RCN. 
-	* Notes https://docs.google.com/document/d/1XZ5Jp1v-DOcYBcwjySW4Blxj004vIarNDKTJxGu4dIc/edit
+	* [Notes and manuscript draft](https://docs.google.com/document/d/1XZ5Jp1v-DOcYBcwjySW4Blxj004vIarNDKTJxGu4dIc/edit)
 * 15:30 Break
 * 15:45 - 17:00 Impromptu Poster Making
 	* At this time we will open the floor to “pitches” or project ideas proposed for broader adoption. In practice, pitches often came from more senior people (including organizers) with a more confident sense of what projects would have an impact. The champion for each pitch then creates an impromptu poster. Participants are free to wander around the room to discuss pitches and decide how to fit in. 
@@ -80,11 +78,8 @@ Meeting URL https://bluejeans.com/527473513?src=join_info, Meeting ID 527 473 51
 * 12:30 Lunch
 * 13:30 Swim Call - Jump off the Dock
 * 13:30 - 15:30 pm Working Groups
-* 15:30 Gene Editing Information Session (Dan Bolnick) (Live Broadcast)
-	* Join details for live broadcast: Meeting URL https://bluejeans.com/806433083?src=join_info, Meeting ID
-806 433 083, Want to dial in from a phone? Dial one of the following numbers: +1.408.740.7256 (US (San Jose))
-+1.408.317.9253 (US (Primary, San Jose)) (see all numbers - https://www.bluejeans.com/numbers), Enter the meeting ID and passcode followed by #, Connecting from a room system? Dial: bjn.vc or 199.48.152.152 and enter your meeting ID & passcode
-* 16:30 Group Meeting, Working group reports (Live Broadcast)
+* 15:30 Gene Editing Information Session (Dan Bolnick) [View recording](https://bluejeans.com/s/MpnGp/)
+* 16:30 Group Meeting, Working group reports 
 * 18:00 Dinner
 * 19:00 Evening Boat ride (other half of the working groups, other half tomorrow)
 * 20:00 Social Hour (BYO alcoholic beverages)
