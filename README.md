@@ -1,6 +1,6 @@
 # Information for the Synthesis Workshop
 
- [Notes and manuscript draft](https://docs.google.com/document/d/1XZ5Jp1v-DOcYBcwjySW4Blxj004vIarNDKTJxGu4dIc/edit)
+## [Notes and manuscript draft](https://docs.google.com/document/d/1XZ5Jp1v-DOcYBcwjySW4Blxj004vIarNDKTJxGu4dIc/edit)
  
 * Link to the [List of Participants](participant_list.csv)
 
