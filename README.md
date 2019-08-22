@@ -1,15 +1,17 @@
 # Information for the Synthesis Workshop
 
-## [Notes and manuscript draft](https://docs.google.com/document/d/1XZ5Jp1v-DOcYBcwjySW4Blxj004vIarNDKTJxGu4dIc/edit)
+## Important links
+
+* [Notes and manuscript draft](https://docs.google.com/document/d/1XZ5Jp1v-DOcYBcwjySW4Blxj004vIarNDKTJxGu4dIc/edit)
+
+* [Sign up for a blog post or social media](https://docs.google.com/spreadsheets/d/1UzXrg-bLqkQja8dZQwb1R76C9ps9KIOc3PzjDLz097o/edit#gid=0)
  
 * Link to the [List of Participants](participant_list.csv)
 
 * For participants: 
 	* [Code of Conduct](code_conduct.md) Please read our Code of Conduct prior to coming to the meeting. 
 	* [Travel Information](travel_info.md) and information on reimbursements (save your receipts, no per-diems)
-	* Alcohol policy: Shoals does not sell alcohol, however you can bring your own. We'll try to organize something more formal as the date approaches.
-	
-* For remote participants: We will update this schedule with a link to the online meeting room and information on how to contribute as the date approaches. See the schedule below for which parts of the workshop will be live broadcast.	
+	* Reimbursement info in the folder above	
 
  # Goals of the Synthesis Workshop
  
