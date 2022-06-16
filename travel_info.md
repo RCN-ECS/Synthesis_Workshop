@@ -21,16 +21,17 @@ See also the list "what to bring" in the [Shoals Overnight Trip Form for adults]
 
 ### Information on [getting to Shoals](https://www.shoalsmarinelaboratory.org/getting-shoals)
   
-#### Boats will leave from Portsmouth to Shoals Marine Lab 2:45pm on Monday, August 19th. ####
+#### Boats will leave from Portsmouth to Shoals Marine Lab 2:45pm on Tuesday, August 16th. ####
 
 **If you are flying:**
- * If you are arriving on the 18th, we have scheduled a hotel for you in your arrival city (Boston or Portsmouth). If you have not yet received a hotel reservation, please contact Sophia Simon (s.simon@northeastern.edu) with the words "RCN workshop" in the subject line. If you are arriving on the 18th to Boston, we have arranged a shuttle to take you to Portsmouth on the 19th (shuttle will pick you up at the hotel at 9am).
-  * If you are arriving on the 19th to Boston, please reserve a spot on the [C&J railways shuttle](https://www.ridecj.com/schedules/view-schedules/?departure=951&arrival=949&departuredate=2019-08-19) - it leaves every 1-2 hours from Logan. If you are traveling internationally the RCN cannot reimburse you, but we can help pay directly for domestic travel. Contact Sophia Simon (s.simon@northeastern.edu) if you would like us to pay directly for your shuttle. C&J will drop you off at the Portsmouth Transportation Center (see below).
- * If you arrive early, you can store luggage in the dock shed.
+ * If you are arriving on the 15th, we have scheduled a hotel for you in your arrival city (Boston or Portsmouth). If you have not yet received a hotel reservation, please contact Thais Bittar (t.bittar@northeastern.edu) with the words "RCN workshop" in the subject line. If you are arriving on the 18th to Boston, we have arranged a shuttle to take you to Portsmouth on the 19th (shuttle will pick you up at the hotel at __TBD, probably around 10:30__).
+ 
+* If you are arriving on the 19th to Boston, please reserve a spot on the [C&J railways shuttle](https://www.ridecj.com/schedules/view-schedules/?departure=951&arrival=949&type=1&departuredate=2022-08-16&adults=1&children=0) - it leaves every 1-2 hours from Logan. If you are traveling internationally the RCN cannot reimburse you, but we can help pay directly for domestic travel. C&J will drop you off at the Portsmouth Transportation Center (see below).
+* If you arrive early, you can store luggage in the dock shed.
 
 **If you are driving:**
- * [Here is a google doc you can use to find someone who may want to carpool](https://docs.google.com/document/d/1Ak_Ef5sC9RreQUyZvKUTi9MR_KK_4tQyj1ES7FATZZA/edit)
- * Park for free overnight at Portmouth Transportation Center and catch the shuttle to the dock (see below)
+* Check the list of participants, you may find someone who wants to carpool
+* Park for free overnight at Portmouth Transportation Center and catch the shuttle to the dock (see below)
  
 **1:15 Shuttle from Portsmouth Transportation Center to the dock**
 
@@ -47,7 +48,7 @@ Portsmouth dock - 315 Market Street, Portsmouth, NH 03801
 
 **2:45 Prompt departure to Shoals**
 
-Boats will depart promptly at 2:45, because they are timed with a bridge lift. If you miss this boat, contact Collin Love (Collin.Love@unh.edu or (616)848-9606) for options to come up Tuesday morning at 9:30am from the Newcastle dock (New Castle dock - 29 Wentworth Road, New Castle, NH 03854).
+Boats will depart promptly at 2:45, because they are timed with a bridge lift. If you miss this boat, contact TBD
 
   
 ### Forms due a week before your travel
@@ -58,7 +59,7 @@ Boats will depart promptly at 2:45, because they are timed with a bridge lift. I
 
 ### Information on leaving Shoals August 23rd
  
-#### Boats will depart Shoals Marine Lab for Portsmouth 9:45am on Friday, August 23rd ####
+#### Boats will depart Shoals Marine Lab for Portsmouth 9:45am on Friday, August 19th ####
 * Plan for 11am arrival in Portsmouth
 * There will be a bus to take people directly from Portsmouth to the Boston airport; we expect to arrive to Boston by 1pm at the latest.
 * There will also be a shuttle to take people to the PTC. Expect to arrive at PTC by 12pm.
